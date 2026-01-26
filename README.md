@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, you can call me James or Andrew 👋
 
-<!--
-**JAMES-ANDROW/JAMES-ANDROW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐘 Simple pero Elepante, here's short description about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a PMEIS for Thesis 1. <br>
+- 💼 I work as a freelance graphics designer and research assistant.
+- 🎨 I enjoy layout designing and UI/UX!! I also enjoy leading small scale projectss.
+- 🔗 To follow website link once DONE: 
+- 🌱 I’m currently learning Dart for Mobile Development.
+- 🤔 I’m looking for help with data management and DFD!!
+- 📫 How to reach me: jamesandrew.agustin@wvsu.edu.ph 
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: Pass and double it to the next person.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
