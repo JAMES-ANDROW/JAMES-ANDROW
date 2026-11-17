@@ -1,61 +1,148 @@
-<h1 align="center">Hi, I’m James Andrew J. Agustin 👋</h1>
 
-<p align="center">
-  <strong>BS Information Systems (BSIS 3B)</strong><br>
-  West Visayas State University
+<div align="center">
+
+# James Andrew J. Agustin
+
+### Information Systems Student · Systems Development · UI/UX Design
+
+*Bridging technology and creativity through meaningful digital experiences.*
+
+<br>
+
+<a href="mailto:jamesandrew.agustin@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/JAMES-ANDROW">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/james-andrew-agustin-329b95438/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.facebook.com/jamesss.agustin/">Facebook</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a fourth-year **BS Information Systems student** at West Visayas State University – College of Information and Communications Technology.
+
+I work at the intersection of technology and creativity, with interests in systems development, database management, UI/UX design, and visual communication.
+
+I enjoy transforming ideas into functional systems and designing digital experiences that are both intuitive and purposeful.
+
+## Featured Projects
+
+### 🌾 TANAW
+
+**Integrated Decision Support System for Optimized Seed Allocation and Monitoring & Evaluation in the Masagana Hybrid Rice Program**
+
+A decision support system developed for the Department of Agriculture to optimize seed allocation and strengthen program planning, monitoring, and evaluation through data-driven insights.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Python` `PuLP` `QGIS`
+
+<p>
+<a href="https://my-tanaw-app.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore_TANAW-3984C6?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 </p>
 
-<p align="center">
-  I love designing more than coding but I can do both <3
+### 📖 Pamana
+
+**Stories Through Lenses**
+
+A personally developed storytelling and blogging platform featuring content management and database integration.
+
+`Web Development` `Database Management`
+
+<p>
+<a href="https://pamana-blogsite-storiesthrulens.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Project-3984C6?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
 
-## 🌱 Currently learning
-- Database Management   
-- TailWind 
-- Dart for Mobile Application Development
+## Organizational & Creative Work
 
----
+### 🎨 RealITy XIII: Metropolis
 
-## 🛠️ Currently working on
-- **Thesis 1:**  
-  *TANAW Modular Planning, Monitoring, and Evaluation Information System Using Geospatial Multi-Criteria Analysis for Decision Support in Department of Agriculture’s Hybrid Rice Program*
+**Head of Creative Committee**
 
----
+A university technology event centered on smart cities and digital innovation. Led the creative committee and contributed to the creation and curation of event publication materials and visual communications.
 
-## 💻 Technical stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<p>
+<a href="https://www.facebook.com/realityxiiiofficial">
+  <img src="https://img.shields.io/badge/View_Event-3984C6?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+</p>
+
+### 🛍️ ZIP by LINK.exe
+
+**Branding & Merchandising**
+
+A merchandising initiative under LINK.exe. Contributed to establishing its visual branding, creating its Facebook presence, and developing its promotional identity.
+
+<p>
+<a href="https://www.facebook.com/zipLINKexe">
+  <img src="https://img.shields.io/badge/Visit_Page-3984C6?style=flat-square&logo=facebook&logoColor=white" />
+</a>
 </p>
 
 ---
-## 🎨 Design stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
+
+## Technical Skills
+
+**Programming & Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,php,js,ts,nextjs,html,css" />
 </p>
 
-- UI/UX design & prototyping (Figma)  
-- Visual design & photo editing (Photoshop)  
-- Vector graphics & branding (Illustrator)  
+**Database & Development Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode" />
+</p>
+
+**Design & Creative Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+---
+
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=JAMES-ANDROW&show_icons=true&theme=transparent&hide_border=true&title_color=3984C6&icon_color=3984C6" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JAMES-ANDROW&layout=compact&theme=transparent&hide_border=true&title_color=3984C6" />
+
+</div>
 
 
 ---
 
-## 📫 How to reach me
-<p align="left">
-  <a href="mailto:jamesandrew.agustin@wvsu.edu.ph">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/jamesss.agustin/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
+## Let's Connect
 
-🏫 **West Visayas State University – Main Campus**
+<div align="center">
+
+<a href="mailto:jamesandrew.agustin@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/JAMES-ANDROW">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/james-andrew-agustin-329b95438/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.facebook.com/jamesss.agustin/">Facebook</a>
+
+<br>
+
+**West Visayas State University – Main Campus**
+
+<br>
+
+*Designed with creativity. Developed with purpose.*
+
+</div>
