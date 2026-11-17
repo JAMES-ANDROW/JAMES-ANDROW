@@ -1,3 +1,32 @@
+<div align="center">
+
+# James Andrew J. Agustin
+
+### Information Systems Student · Systems Development · UI/UX Design
+
+*Bridging technology and creativity through meaningful digital experiences.*
+
+<br>
+
+<a href="mailto:jamesandrew.agustin@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/JAMES-ANDROW">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/james-andrew-agustin-329b95438/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.facebook.com/jamesss.agustin/">Facebook</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a fourth-year **BS Information Systems student** at West Visayas State University – College of Information and Communications Technology.
+
+I work at the intersection of technology and creativity, with interests in systems development, database management, UI/UX design, and visual communication.
+
+I enjoy transforming ideas into functional systems and designing digital experiences that are both intuitive and purposeful.
 
 
 ## Featured Projects
