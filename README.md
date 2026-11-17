@@ -1,33 +1,4 @@
 
-<div align="center">
-
-# James Andrew J. Agustin
-
-### Information Systems Student · Systems Development · UI/UX Design
-
-*Bridging technology and creativity through meaningful digital experiences.*
-
-<br>
-
-<a href="mailto:jamesandrew.agustin@gmail.com">Email</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/JAMES-ANDROW">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/james-andrew-agustin-329b95438/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.facebook.com/jamesss.agustin/">Facebook</a>
-
-</div>
-
----
-
-## About Me
-
-I'm a fourth-year **BS Information Systems student** at West Visayas State University – College of Information and Communications Technology.
-
-I work at the intersection of technology and creativity, with interests in systems development, database management, UI/UX design, and visual communication.
-
-I enjoy transforming ideas into functional systems and designing digital experiences that are both intuitive and purposeful.
 
 ## Featured Projects
 
@@ -37,13 +8,19 @@ I enjoy transforming ideas into functional systems and designing digital experie
 
 A decision support system developed for the Department of Agriculture to optimize seed allocation and strengthen program planning, monitoring, and evaluation through data-driven insights.
 
+<p align="center">
+  <a href="https://my-tanaw-app.vercel.app/">
+    <img src="./assets/TANAW%20preview.png" width="100%" alt="TANAW Website Preview">
+  </a>
+</p>
+
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Python` `PuLP` `QGIS`
 
-<p>
 <a href="https://my-tanaw-app.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore_TANAW-3984C6?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_Live_System-3984C6?style=flat-square&logo=vercel&logoColor=white">
 </a>
-</p>
+
+---
 
 ### 📖 Pamana
 
@@ -51,13 +28,17 @@ A decision support system developed for the Department of Agriculture to optimiz
 
 A personally developed storytelling and blogging platform featuring content management and database integration.
 
+<p align="center">
+  <a href="https://pamana-blogsite-storiesthrulens.vercel.app/">
+    <img src="./assets/PAMANA%20preview.png" width="100%" alt="Pamana Website Preview">
+  </a>
+</p>
+
 `Web Development` `Database Management`
 
-<p>
 <a href="https://pamana-blogsite-storiesthrulens.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Project-3984C6?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Live_Website-3984C6?style=flat-square&logo=vercel&logoColor=white">
 </a>
-</p>
 
 ---
 
@@ -69,11 +50,17 @@ A personally developed storytelling and blogging platform featuring content mana
 
 A university technology event centered on smart cities and digital innovation. Led the creative committee and contributed to the creation and curation of event publication materials and visual communications.
 
-<p>
-<a href="https://www.facebook.com/realityxiiiofficial">
-  <img src="https://img.shields.io/badge/View_Event-3984C6?style=flat-square&logo=facebook&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.facebook.com/realityxiiiofficial">
+    <img src="./assets/REALITY%20preview.jpg" width="100%" alt="RealITy XIII Event Preview">
+  </a>
 </p>
+
+<a href="https://www.facebook.com/realityxiiiofficial">
+  <img src="https://img.shields.io/badge/View_Event-3984C6?style=flat-square&logo=facebook&logoColor=white">
+</a>
+
+---
 
 ### 🛍️ ZIP by LINK.exe
 
@@ -81,11 +68,15 @@ A university technology event centered on smart cities and digital innovation. L
 
 A merchandising initiative under LINK.exe. Contributed to establishing its visual branding, creating its Facebook presence, and developing its promotional identity.
 
-<p>
-<a href="https://www.facebook.com/zipLINKexe">
-  <img src="https://img.shields.io/badge/Visit_Page-3984C6?style=flat-square&logo=facebook&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.facebook.com/zipLINKexe">
+    <img src="./assets/ZIP%20preview.png" width="100%" alt="ZIP by LINK.exe Preview">
+  </a>
 </p>
+
+<a href="https://www.facebook.com/zipLINKexe">
+  <img src="https://img.shields.io/badge/Visit_Page-3984C6?style=flat-square&logo=facebook&logoColor=white">
+</a>
 
 ---
 
